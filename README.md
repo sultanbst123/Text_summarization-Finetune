@@ -1,6 +1,6 @@
 # Text_summarization-id2id
 
-Demo:
+Demo Text summarization:
 - [mT5](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MT5) 
 - [MBart](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MBART) 
 
