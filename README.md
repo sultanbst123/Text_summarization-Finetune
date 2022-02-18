@@ -20,4 +20,4 @@ Note untuk mT5: mT5 dilatih tanpa pengawasan jadi fine tuning untuk mendapatkan 
  
 - [google-research/multilingual-t5(official)](https://github.com/google-research/multilingual-t5)
 - [MBart and MBart-50 documentation](https://huggingface.co/docs/transformers/model_doc/mbart)
-- [mT5 documentation](official)](https://huggingface.co/docs/transformers/model_doc/mt5)
+- [mT5 documentation](https://huggingface.co/docs/transformers/model_doc/mt5)
