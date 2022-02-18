@@ -16,7 +16,7 @@ mBART-50 adalah model Sequence-to-Sequence multibahasa. yang diperkenalkan untuk
 “Text-to-Text Transfer Transformer”” (T5) baru-baru ini memanfaatkan format dan skala teks-ke-teks terpadu untuk mencapai hasil mutakhir pada berbagai tugas NLP berbahasa Inggris. Google memperkenalkan mT5, varian multibahasa dari T5 yang telah dilatih sebelumnya pada kumpulan data berbasis Common Crawl baru yang mencakup 101 bahasa. Kami merinci desain dan pelatihan modifikasi mT5 dan mendemonstrasikan kinerja mutakhirnya di banyak tolok ukur multibahasa. Kami juga menjelaskan teknik sederhana untuk mencegah "penerjemahan yang tidak disengaja" dalam pengaturan zero-shot, di mana model generatif memilih untuk (sebagian) menerjemahkan prediksinya ke dalam bahasa yang salah.
 Note untuk mT5: mT5 dilatih tanpa pengawasan jadi fine tuning untuk mendapatkan hasil yang di harapkan(saya pakai check point mT5 yang sudah di fine tuning) 
 
-### Referensi:
+## Referensi:
  
 - [google-research/multilingual-t5(official)](https://github.com/google-research/multilingual-t5)
 - [MBart and MBart-50 documentation](https://huggingface.co/docs/transformers/model_doc/mbart)
