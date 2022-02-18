@@ -22,6 +22,6 @@ Note untuk mT5: mT5 dilatih tanpa pengawasan jadi fine tuning untuk mendapatkan 
 - [MBart and MBart-50 documentation](https://huggingface.co/docs/transformers/model_doc/mbart)
 - [mT5 documentation](https://huggingface.co/docs/transformers/model_doc/mt5)
 
-## Disclaimer
+## Important: 
 - jika ada bacaan error clear lalu submit ulang 
 - <b>Laporkan jika ada kesalahan</b>
