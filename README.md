@@ -1,8 +1,8 @@
-# Text_summarization-id2id
+# Text_summarization(FT)
 
 Demo Text summarization:
-- [mT5](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MT5) 
-- [MBart](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MBART) 
+- [mT5](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MT5) dan serta [45 bahasa/languages](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum#benchmarks) 
+- [MBart](https://huggingface.co/spaces/Sultannn/Text_summarization_with-MBART) dan serta [50 bahasa/languages](https://huggingface.co/facebook/mbart-large-50#languages-covered)  
 
 
 ## Text summarization dengan:
