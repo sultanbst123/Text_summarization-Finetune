@@ -25,5 +25,5 @@ Note untuk mT5: mT5 dilatih tanpa pengawasan jadi fine tuning untuk mendapatkan 
 - [mT5 documentation](https://huggingface.co/docs/transformers/model_doc/mt5)
 
 ## Important: 
-- jika ada bacaan error clear lalu submit ulang 
+- jika ada bacaan error klik clear lalu submit ulang 
 - <b>Laporkan jika ada kesalahan</b>
